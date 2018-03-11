@@ -1,1 +1,3 @@
 # WhyPayVPN
+In progress... 
+Objective is to make personal VPN server app which does dynamic dns update with personal FQDN upon WAN side public IP address changes. 
